@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+
+.cart{
+    height: 90px;
+    width:  90px;
+    color: blueviolet;
+    position: fixed;
+    top: 50%;
+    left: 96%;
+    width: 20px;
+    font-size: 20px;
+
+}
+.logo{
+    font-size: 40px;
+    font-family:Dancing Script;
+    font-weight: bold;
+    color: rgb(10, 2, 7);
+}
+.profile{
+    height: 90px;
+    width:  90px;
+    color: blueviolet;
+    position: fixed;
+    top: 58%;
+    left: 96%;
+    width: 20px;
+    font-size: 20px;
+}
+.cartimg{
+    height: 30px;
+    width: 30px;
+}
+

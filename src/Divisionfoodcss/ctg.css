@@ -1,0 +1,9 @@
+.ctg{
+    background-image: url("/src/assests/ctg.jpg");
+    height: 300px;
+    background-size: cover;
+    color: aliceblue;   
+}
+.btnstyle{
+    width: 90%;
+}

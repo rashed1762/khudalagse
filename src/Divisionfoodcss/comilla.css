@@ -1,0 +1,9 @@
+.cox{
+    background-image: url("/src/assests/cox.webp");
+    height: 300px;
+    background-size: cover;
+    color: aliceblue;   
+}
+.btnstyle{
+    width: 90%;
+}
